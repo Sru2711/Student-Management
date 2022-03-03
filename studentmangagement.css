@@ -1,0 +1,28 @@
+th{
+    background-color: rgb(160, 240, 240);
+}
+tr{
+    background-color:rgb(212, 250, 137) ;
+}
+.mainform{
+    background-color:rgb(107, 208, 241);
+    height:630px;
+    width:430px;
+    margin-left:10px;
+    padding:10px;
+    border-radius: 8px;
+    
+}
+.input{
+    width:400px;
+    border-radius:5px;
+    
+}
+.button{
+    width:400px;
+    margin-left:3px;
+}   
+.tablecss{
+    border: 1px solid black;
+  border-collapse: collapse;
+}
